@@ -31,7 +31,17 @@ width: 8%;
     width: 7%;
 }
 .cabecalho-imagem7{
-    width: 10%;
     display: inline-block;
+    width: 10%;
     margin: 0 16px;
 }
+
+.imagem-belos{
+    width: 17%;
+}
+
+.escola{
+    background-image: linear-gradient(#d1a25d, #F4E8B8);
+    color: black;
+}
+
