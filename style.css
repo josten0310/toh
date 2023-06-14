@@ -40,8 +40,19 @@ width: 8%;
     width: 17%;
 }
 
-.escola{
-    background-image: linear-gradient(#d1a25d, #F4E8B8);
+.imagem-belos{
+    background-image: linear-gradient(#efe1a6, #efe1a6);
     color: black;
+    display: flex;
 }
 
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 70px;
+    padding: 12px 0;
+  
+}
